@@ -2,10 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-dash.py # This is the file you run with "streamlit run"
-└─── pages/
-  └─── dash2.py
-
 st.title('Uber pickups in NYC')
 
 DATE_COLUMN = 'date/time'
