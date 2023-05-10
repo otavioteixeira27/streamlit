@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+Home.py # This is the file you run with "streamlit run"
+└─── pages/
+  └─── About.py # This is a page
+  └─── 2_Page_two.py # This is another page
+  └─── 3_😎_three.py # So is this
+
 st.title('Uber pickups in NYC')
 
 DATE_COLUMN = 'date/time'
