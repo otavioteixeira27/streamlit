@@ -1,4 +1,4 @@
-streamlit run [entrypoint file]
+
 
 dash.py # This is the file you run with "streamlit run"
 └─── pages/
